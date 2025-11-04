@@ -168,7 +168,7 @@
   text-decoration: underline;
 }
 
-.card_text {
+.card-text {
   z-index: 2;
   line-height: 1.2;
   font-size: 20px;
